@@ -4,3 +4,5 @@ A few small projects on parameter estimation, bootstrap confidence intervals, an
 MLB parameter estimation: Estimation of parameter τ characterizing the time between no-hitters in MLB based on an exponential distribution (Poisson process for no-hitters is assumed).
 
 Literacy/fertility linear regression:
+
+Lightspeed bootstrapping: 
